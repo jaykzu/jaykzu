@@ -1,4 +1,9 @@
-## hey!
+<h1 align="center">hey!</h1>
+<h3 align="center"></h3>
+
+- i like python
+- i’m currently working on [secret project] 👀
+- check out my [portfolio](https://jyoon.dev)
 
 <!--
 **jaykzu/jaykzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
