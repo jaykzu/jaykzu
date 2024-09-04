@@ -1,5 +1,6 @@
-<h1 align="center">hey!</h1>
+<h1 align="center">hey!👋</h1>
 <h3 align="center"></h3>
+undergraduate computer science major.
 
 - i like python 🐍
 - studying ML rn 247
