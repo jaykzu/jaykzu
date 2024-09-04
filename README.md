@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 - i like python 🐍
-- studying ML 247
+- studying ML rn 247
 - i’m currently working on [secret project] 👀
 - check out my [portfolio](https://jyoon.dev)
 
